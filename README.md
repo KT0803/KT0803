@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 First-year CSE student at **Newton School of Technology, Pune**
+- 🎓 Second-year CSE student at **Newton School of Technology, Pune**
 - 💻 Full-Stack Developer (MERN + Next.js)
 - ⚡ Strong in **DSA + Problem Solving**
 - 🤖 Interested in **AI, Automation & Real-world Systems**
